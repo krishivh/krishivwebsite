@@ -1,0 +1,23 @@
+body {
+    background-color: #e6f7ff;
+    color: #003366;
+}
+a {
+    color: #0059b3;
+}
+button {
+    background-color: #0059b3;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #003366;
+}
+footer {
+    background-color: #cce7ff;
+    color: #003366;
+    text-align: center;
+    padding: 1em 0;
+}

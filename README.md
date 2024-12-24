@@ -1,1 +1,1 @@
-# krishivwebsite
+Hello! My name is Krishiv Haranath, and I am Currently a 3rd Year Computer Science Student at San Jose State University. I am currently seeking Software Engineering Internships for Summer 2025. I am proficient in Java, Python, SQL, and Javascript, but am a fast learner, and would thrive in any opportunities to learn new languages and gain new experiences.

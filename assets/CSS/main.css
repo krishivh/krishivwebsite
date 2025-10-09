@@ -6,6 +6,11 @@ html, body {
   border: 0;
   overflow-x: hidden;
 }
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
 
 .navbar {
   position: fixed;

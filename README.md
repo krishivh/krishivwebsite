@@ -1,2 +1,2 @@
-# krishivwebsite1
-landing page
+# Krishiv Haranath Website
+Hello! My name is Krishiv Haranath, and I am currently a 3rd Year Data Science Student at The University of California, Los Angeles. I am currently seeking Software Engineering Internships for Summer 2026. I am proficient in Python, Java, Typescript/JavaScript, SQL, and R but am a fast learner, and would love any opportunities to learn new languages and gain new experiences.

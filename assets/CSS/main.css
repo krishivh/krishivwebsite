@@ -302,6 +302,11 @@ Project
   margin: 0 auto;
 }
 
+.projects-grid a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .project-card {
   background-color: #111;
   border-radius: 12px;
